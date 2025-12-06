@@ -1,5 +1,5 @@
 # 🌱 About Me:
-🔭 I’m currently working on Agenda Edu<br>👯 I’m looking to collaborate on open source gems in ruby on rails <br>🌱 I’m currently learning rubt on rails <br>
+🔭 I’m currently working on Agenda Edu<br>👯 I’m looking to collaborate on open source gems in ruby on rails <br>🌱 I’m currently learning ruby on rails and React <br>
 
 
 ## 🌐 Socials:
